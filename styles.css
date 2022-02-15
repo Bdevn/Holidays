@@ -17,10 +17,10 @@ body {
   
   .animated {
     font-family: 'Charm', cursive;
-    margin: 0;
-    padding: 0;
-    height: 200px;
-    font-size: 7rem;
+    margin: 0rem;
+    padding: 0rem;
+    height: 180px;
+    font-size: 6rem;
     background: url(/valentineHeartBanner.png) no-repeat;
     background-clip: text;
     -webkit-background-clip: text;
