@@ -22,7 +22,7 @@ body {
     padding: 0rem;
     height: 180px;
     font-size: 6rem;
-    background: url(valentineHeartBanner.png); no-repeat;
+    background: url(valentineHeartBanner.png) no-repeat;
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
@@ -45,7 +45,4 @@ body {
   @media only screen and (max-width: 900px) {
       .animated {
           background: url(jmp=valentines-2022-mobileBG.png);
-          font-size: 4rem;
-          height: 100px;
-      }
   }
